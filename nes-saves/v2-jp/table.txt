@@ -1,9 +1,12 @@
+N/A1		サンパウロ (São Paulo) - フ儿ミ不ンセ (Families???) [shirt: #c7d7ff/light blue, shorts: #ffffff, skin: #e70059]
+N/A2		サンパウロ (São Paulo) - コリンチャンス (Corinthians?) [shirt: #be00be/purple, shorts: #ffffff, skin: #e70059]
+N/A3		サンパウロ (São Paulo) - グしミオ (Gushimio?) [shirt: #00ebdb/cyan, shorts: #db2800, skin: #ff7561/#ffbeb2]
+N/A4		サンパウロ (São Paulo) - パルメイラス (Palmeiras) [shirt: #82d310/green, shorts: #ffffff, skin: #e70059/#ff7561/#ffbeb2]
+N/A5		サンパウロ (São Paulo) - サントス (Santos) [shirt: #757575/gray, shorts: #ffffff, skin: #ff7561/#e70059/#ffbeb2]
 
-01		サンパウロ - フ儿ミ不ンセ (Families???) [shirt: light blue]
-02		サンパウロ - コリンチャンス (Corinthians?) [shirt: purple]
-03		サンパウロ - グしミオ (Gushimio?) [shirt: #00ebdb/cyan, shorts: #db2800]
-04		サンパウロ - パルメイラス (Palmeiras) [shirt: #82d310/green, shorts: #ffffff]
-05		サンパウロ - サントス (Santos) [shirt: #757575/gray, shorts: #ffffff]
+N/B			サンパウロ - フラメンゴ (Flamengo) [shirt: #db2800/red, shorts: #757575, skin: #e70059/#ff7561]
+N/C1		なんかつ (Nankatsu) - くにみが くいん (Kunimigakin) [shirt: , shorts: , skin: ]
+
 
 A2		サンハ (サンパウロ = São Paulo) - ウルグ (ウルグアイ = Uruguay)
 A3		サンパウロ (São Paulo) - ハンブルガーSV (Hamburger SV)
