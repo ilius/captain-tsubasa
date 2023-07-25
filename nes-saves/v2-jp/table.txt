@@ -1,7 +1,14 @@
+
+01		サンパウロ - フ儿ミ不ンセ (Families???) [shirt: light blue]
+02		サンパウロ - コリンチャンス (Corinthians?) [shirt: purple]
+03		サンパウロ - グしミオ (Gushimio?) [shirt: #00ebdb/cyan, shorts: #db2800]
+04		サンパウロ - パルメイラス (Palmeiras) [shirt: #82d310/green, shorts: #ffffff]
+05		サンパウロ - サントス (Santos) [shirt: #757575/gray, shorts: #ffffff]
+
 A2		サンハ (サンパウロ = São Paulo) - ウルグ (ウルグアイ = Uruguay)
 A3		サンパウロ (São Paulo) - ハンブルガーSV (Hamburger SV)
 B		サンパウロ (São Paulo) - ぜんにほん (All of Japan)
-C1		ぜんにほん1ース (All of Japan 1st) - シリア (Syria) (シ, not ツ)
+C1		ぜんにほん1ース (All of Japan 1st) - シリア (Syria)
 C2		ぜんにほん1ース (All of Japan 1st) - ちゅうごく (China)
 C3		ぜんにほん1ース (All of Japan 1st) - イラン (Iran)
 C4		ぜんにほん1ース (All of Japan 1st) - きたちょうせん (North Korea)
@@ -17,3 +24,8 @@ F2		ぜんにほん1ース (All of Japan 1st) - イタリア1ース (Italy 1st)
 F3		ぜんにほん1ース (All of Japan 1st) - オランダ1ース (Netherlands 1st) 
 F4		ぜんにほん1ース (All of Japan 1st) - アルゼンチン1ース (Argentina 1st)
 F5		ぜんにほん1ース (All of Japan 1st) - ニシドイツース (West Germany 1st)
+
+
+Notes:
+	ン != ソ
+	シ != ツ
