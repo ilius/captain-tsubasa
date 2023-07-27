@@ -4,8 +4,9 @@ N/A3	サンパウロ (São Paulo) - グしミオ (Gushimio?) [shirt: #00ebdb/cya
 N/A4	サンパウロ (São Paulo) - パルメイラス (Palmeiras) [shirt: #82d310/green, shorts: #ffffff, skin: #e70059/#ff7561/#ffbeb2]
 N/A5	サンパウロ (São Paulo) - サントス (Santos) [shirt: #757575/gray, shorts: #ffffff, skin: #ff7561/#e70059/#ffbeb2]
 N/B		サンパウロ (São Paulo) - フラメンゴ (Flamengo) [shirt: #db2800/red, shorts: #757575, skin: #e70059/#ff7561]
+
 N/C1	なんかつ (Nankatsu) - くにみが くいん (Kunimigakin) [shirt: #0071ef/blue, shorts: #ffdbaa, skin: #ffbeb2]
-N/C2	なんかつ (Nankatsu) - あきたしょうこう (Akita school) [shirt: #009600, shorts: #ffffff, skin: #ffbeb2]
+N/C2	なんかつ (Nankatsu) - あきたしょうこう (Akita school) [shirt: #009600, shorts: #ffffff, skin: #ffbeb2] [tachibana twins]
 
 A2		サンハ (サンパウロ = São Paulo) - ウルグ (ウルグアイ = Uruguay)
 A3		サンパウロ (São Paulo) - ハンブルガーSV (Hamburger SV)
@@ -16,7 +17,7 @@ C3		ぜんにほん1ース (All of Japan 1st) - イラン (Iran)
 C4		ぜんにほん1ース (All of Japan 1st) - きたちょうせん (North Korea)
 C5		ぜんにほん1ース (All of Japan 1st) - サウジアラビア (Saudi Arabia)
 D1		ぜんにほん1ース (All of Japan 1st) - かんこく (Korea)
-D9		バスコ・ダ・ガマ (Vasco_da_Gama)
+D9		バスコ・ダ・ガマ (Vasco da Gama) [Brazilian club]
 E1		ぜんにほん1ース (All of Japan 1st) - ポーランド1ース (Poland 1st)
 E2		ぜんにほん1ース (All of Japan 1st) - イングランド1ース (England 1st)
 E3		ぜんにほん1ース (All of Japan 1st) - ソビエト1ース (Soviet 1st)
