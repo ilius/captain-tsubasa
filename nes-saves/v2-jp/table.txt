@@ -7,6 +7,7 @@ N/B		サンパウロ (São Paulo) - フラメンゴ (Flamengo) [shirt: #db2800/r
 
 N/C1	なんかつ (Nankatsu) - くにみが くいん (Kunimigakin) [shirt: #0071ef/blue, shorts: #ffdbaa, skin: #ffbeb2]
 N/C2	なんかつ (Nankatsu) - あきたしょうこう (Akita school) [shirt: #009600, shorts: #ffffff, skin: #ffbeb2] [tachibana twins]
+N/C2	なんかつ (Nankatsu) -      [shirt: #2038ef/dark_blue, shorts: #aae7ff, skin: #ffbeb2]
 
 A2		サンハ (サンパウロ = São Paulo) - ウルグ (ウルグアイ = Uruguay)
 A3		サンパウロ (São Paulo) - ハンブルガーSV (Hamburger SV)
