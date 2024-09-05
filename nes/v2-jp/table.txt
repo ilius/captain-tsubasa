@@ -1,17 +1,18 @@
-N/A1	サンパウロ (São Paulo) - フ儿ミ不ンセ (Families???) [shirt: #c7d7ff/light blue, shorts: #ffffff, skin: #e70059]
-N/A2	サンパウロ (São Paulo) - コリンチャンス (Corinthians?) [shirt: #be00be/purple, shorts: #ffffff, skin: #e70059]
-N/A3	サンパウロ (São Paulo) - グしミオ (Gushimio?) [shirt: #00ebdb/cyan, shorts: #db2800, skin: #ff7561/#ffbeb2]
-N/A4	サンパウロ (São Paulo) - パルメイラス (Palmeiras) [shirt: #82d310/green, shorts: #ffffff, skin: #e70059/#ff7561/#ffbeb2]
-N/A5	サンパウロ (São Paulo) - サントス (Santos) [shirt: #757575/gray, shorts: #ffffff, skin: #ff7561/#e70059/#ffbeb2]
-N/B		サンパウロ (São Paulo) - フラメンゴ (Flamengo) [shirt: #db2800/red, shorts: #757575, skin: #e70059/#ff7561]
+B02		サンパウロ (São Paulo) - フ儿ミ不ンセ (Families???) [shirt: #c7d7ff/light blue, shorts: #ffffff, skin: #e70059]
+B03		サンパウロ (São Paulo) - コリンチャンス (Corinthians?) [shirt: #be00be/purple, shorts: #ffffff, skin: #e70059]
+B04		サンパウロ (São Paulo) - グしミオ (Gushimio?) [shirt: #00ebdb/cyan, shorts: #db2800, skin: #ff7561/#ffbeb2]
+B05		サンパウロ (São Paulo) - パルメイラス (Palmeiras) [shirt: #82d310/green, shorts: #ffffff, skin: #e70059/#ff7561/#ffbeb2]
+B06		サンパウロ (São Paulo) - サントス (Santos) [shirt: #757575/gray, shorts: #ffffff, skin: #ff7561/#e70059/#ffbeb2]
+B07		サンパウロ (São Paulo) - フラメンゴ (Flamengo) [shirt: #db2800/red, shorts: #757575, skin: #e70059/#ff7561]
 
-N/C1	なんかつ (Nankatsu) - くにみが くいん (Kunimigakin) [shirt: #0071ef/blue, shorts: #ffdbaa, skin: #ffbeb2]
-N/C2	なんかつ (Nankatsu) - あきたしょうこう (Akita school) [shirt: #009600, shorts: #ffffff, skin: #ffbeb2] [tachibana twins]
-N/C2	なんかつ (Nankatsu) -      [shirt: #2038ef/dark_blue, shorts: #aae7ff, skin: #ffbeb2]
+B11		なんかつ (Nankatsu) - くにみが くいん (Kunimigakin) [shirt: #0071ef/blue, shorts: #ffdbaa, skin: #ffbeb2]
+B12		なんかつ (Nankatsu) - あきたしょうこう (Akita school) [shirt: #009600, shorts: #ffffff, skin: #ffbeb2] [tachibana twins]
+B13		なんかつ (Nankatsu) -      [shirt: #2038ef/dark_blue, shorts: #aae7ff, skin: #ffbeb2]
 
-A2		サンハ (サンパウロ = São Paulo) - ウルグ (ウルグアイ = Uruguay)
-A3		サンパウロ (São Paulo) - ハンブルガーSV (Hamburger SV)
-B		サンパウロ (São Paulo) - ぜんにほん (All of Japan)
+B22		サンパウロ (São Paulo) - ウルグ (ウルグアイ = Uruguay)
+B23		サンパウロ (São Paulo) - ハンブルガーSV (Hamburger SV)
+B30		サンパウロ (São Paulo) - ぜんにほん (All of Japan)
+
 C1		ぜんにほん1ース (All of Japan 1st) - シリア (Syria)
 C2		ぜんにほん1ース (All of Japan 1st) - ちゅうごく (China)
 C3		ぜんにほん1ース (All of Japan 1st) - イラン (Iran)
