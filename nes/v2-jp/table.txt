@@ -17,6 +17,9 @@ B01		サンパウロ (São Paulo) - ASローマ (AS Roma) [shirt: #db2800, short
 B02		サンパウロ (São Paulo) - フ儿ミ不ンセ (Families???) [shirt: #c7d7ff, shorts: #ffffff, skin: #ffbeb2/#ff7561]
 B03		サンパウロ (São Paulo) - ハンブルガーSV (Hamburger SV) [shirt: #ffffff, shorts: #82d310 skin: #ffbeb2] (Waka Bayashi)
 
+B04		サンパウロ (São Paulo) - にほん (Japan)
+
+
 Unsaved:B03?		サンパウロ (São Paulo) - コリンチャンス (Corinthians?) [shirt: #be00be, shorts: #ffffff, skin: #e70059]
 Unsaved:B04		サンパウロ (São Paulo) - グしミオ (Gushimio?) [shirt: #00ebdb, shorts: #db2800, skin: #ff7561/#ffbeb2]
 Unsaved:B05		サンパウロ (São Paulo) - パルメイラス (Palmeiras) [shirt: #82d310, shorts: #ffffff, skin: #e70059/#ff7561/#ffbeb2]
