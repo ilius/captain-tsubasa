@@ -22,10 +22,9 @@ B04		サンパウロ (São Paulo) - にほん (Japan / JPN)
 C1		ぜんにほん1ース (All of Japan 1st) - シリア (Syria / SYR) [shirt: #cf8aff, shorts: #ffffff, skin: #ff9a38)
 C2		ぜんにほん1ース (All of Japan 1st) - ちゅうごく (China / CHN) [shirt: #ffdbaa, shorts: #db2800, skin: #ffbeb2)
 C3		ぜんにほん1ース (All of Japan 1st) - イラン (Iran / IRN) [shirt: #82d310, shorts: #009600, skin: #ff9a38)
-C4		ぜんにほん1ース (All of Japan 1st) - きたちょうせん (North Korea) [shirt: #, shorts: #, skin: #)
-C5		ぜんにほん1ース (All of Japan 1st) - サウジアラビア (Saudi Arabia) [shirt: #, shorts: #, skin: #)
-D1		ぜんにほん1ース (All of Japan 1st) - かんこく (Korea) [shirt: #, shorts: #, skin: #)
-
+C4		ぜんにほん1ース (All of Japan 1st) - きたちょうせん (North Korea) [shirt: #ff9a38, shorts: #db2800, skin: #ffbeb2) (translated to Taiwan in Persian version)
+C5		ぜんにほん1ース (All of Japan 1st) - サウジアラビア (Saudi Arabia / KSA) [shirt: #0071ef, shorts: #0071ef, skin: #ff9a38)
+C6		ぜんにほん1ース (All of Japan 1st) - かんこく (Korea) [shirt: #0071ef, shorts: #db2800, skin: #ffbeb2)
 
 
 Unsaved:B03?		サンパウロ (São Paulo) - コリンチャンス (Corinthians?) [shirt: #be00be, shorts: #ffffff, skin: #e70059]
@@ -57,5 +56,6 @@ F5		ぜんにほん1ース (All of Japan 1st) - ニシドイツース (West Germ
 
 
 Notes:
-	ン != ソ
-	シ != ツ
+ン != ソ
+シ != ツ
+Taiwan = 台湾 = たいわん
