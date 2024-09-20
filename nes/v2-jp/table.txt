@@ -24,7 +24,9 @@ C2		ぜんにほん1ース (All of Japan 1st) - ちゅうごく (China / CHN) [s
 C3		ぜんにほん1ース (All of Japan 1st) - イラン (Iran / IRN) [shirt: #82d310, shorts: #009600, skin: #ff9a38)
 C4		ぜんにほん1ース (All of Japan 1st) - きたちょうせん (North Korea) [shirt: #ff9a38, shorts: #db2800, skin: #ffbeb2) (translated to Taiwan in Persian version)
 C5		ぜんにほん1ース (All of Japan 1st) - サウジアラビア (Saudi Arabia / KSA) [shirt: #0071ef, shorts: #0071ef, skin: #ff9a38)
-C6		ぜんにほん1ース (All of Japan 1st) - かんこく (Korea) [shirt: #0071ef, shorts: #db2800, skin: #ffbeb2)
+C6		ぜんにほん1ース (All of Japan 1st) - かんこく (Korea / KOR) [shirt: #0071ef, shorts: #db2800, skin: #ffbeb2)
+
+D9		ぜんにほん1ース (All of Japan 1st) - バスコ・ダ・ガマ (Vasco da Gama / VDG) [shirt: #ffffff, shorts: #82d310, skin: #e70059] (Brazilian club, friendly match)
 
 
 Unsaved:B03?		サンパウロ (São Paulo) - コリンチャンス (Corinthians?) [shirt: #be00be, shorts: #ffffff, skin: #e70059]
@@ -42,12 +44,11 @@ Unsaved:B22		サンパウロ (São Paulo) - ウルグ (ウルグアイ = Uruguay
 Unsaved:B30		サンパウロ (São Paulo) - ぜんにほん (All of Japan)
 
 
-D9		バスコ・ダ・ガマ (Vasco da Gama) [Brazilian club]
 
-E1		ぜんにほん1ース (All of Japan 1st) - ポーランド1ース (Poland 1st)
-E2		ぜんにほん1ース (All of Japan 1st) - イングランド1ース (England 1st)
-E3		ぜんにほん1ース (All of Japan 1st) - ソビエト1ース (Soviet 1st)
-E4		ぜんにほん1ース (All of Japan 1st) - フランス1ース (France 1st)
+E1		ぜんにほん1ース (All of Japan 1st) - ポーランド1ース (Poland 1st) (group match)
+E2		ぜんにほん1ース (All of Japan 1st) - イングランド1ース (England 1st) (group match)
+E3		ぜんにほん1ース (All of Japan 1st) - ソビエト1ース (Soviet 1st) (group match)
+E4		ぜんにほん1ース (All of Japan 1st) - フランス1ース (France 1st) (group match)
 F1		ぜんにほん1ース (All of Japan 1st) - メキシコ1ース (Mexico 1st) (Unsaved)
 F2		ぜんにほん1ース (All of Japan 1st) - イタリア1ース (Italy 1st) (Unsaved)
 F3		ぜんにほん1ース (All of Japan 1st) - オランダ1ース (Netherlands 1st) (Unsaved)
