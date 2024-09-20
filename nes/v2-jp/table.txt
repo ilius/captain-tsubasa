@@ -1,4 +1,3 @@
-
 Copa Rio:
 A01		サンパウロ (São Paulo) - フルミネンセ (Fluminense / FLU) [shirt: #c7d7ff, shorts: #ffffff, skin: #e70059]
 A02		サンパウロ (São Paulo) - コリンチャンス (Corinthians? / COR) [shirt: #be00be, shorts: #ffffff, skin: #e70059]
@@ -7,24 +6,25 @@ A04		サンパウロ (São Paulo) - パルメイラス (Palmeiras / PAL) [shirt:
 A05		サンパウロ (São Paulo) - サントス (Santos / SAN) [shirt: #757575, shorts: #ffffff, skin: #ff7561/#e70059/#ffbeb2]
 A06		サンパウロ (São Paulo) - フラメンゴ (Flamengo / FLA) [shirt: #db2800, shorts: #757575, skin: #e70059/#ff7561] (final)
 
+Nankatsu:
 A21		なんかつ (Nankatsu) - くにみが くいん (Kunimigakin / KUN) [shirt: #0071ef, shorts: #ffdbaa, skin: #ffbeb2]
 A22		なんかつ (Nankatsu) - あきたしょうこう (Akita school / AKI) [shirt: #009600, shorts: #ffffff, skin: #ffbeb2] [tachibana twins]
 A23		なんかつ (Nankatsu) - たつなゐ (Tatunai / TAT) [shirt: #2038ef, shorts: #aae7ff, skin: #ffbeb2]
 A24		なんかつ (Nankatsu) - むさし (Musashi / MUS) [shirt: #ffffff, shorts: #f779ff, skin: #ffbeb2]
 A25		なんかつ (Nankatsu) - ふらの (Furano / FUR) [shirt: #ffdbaa, shorts: #ffffff, skin: #ffbeb2]
+A26		なんかつ (Nankatsu) - とうほう (Toho / THO) [shirt: #757575, shorts: #000000, skin: #ffbeb2] (Final, Kojiro)
 
-
-Unsaved:B22		サンパウロ (São Paulo) - ウルグ (ウルグアイ = Uruguay)
-Unsaved:B30		サンパウロ (São Paulo) - ぜんにほん (All of Japan)
-
+Unsaved?		サンパウロ (São Paulo) - ウルグ (ウルグアイ = Uruguay)
 
 
 B01		サンパウロ (São Paulo) - ASローマ (AS Roma) [shirt: #db2800, shorts: #db2800, skin: #ffbeb2]
 B02		サンパウロ (São Paulo) - フ儿ミ不ンセ (Families???) [shirt: #c7d7ff, shorts: #ffffff, skin: #ffbeb2/#ff7561]
 B03		サンパウロ (São Paulo) - ハンブルガーSV (Hamburger SV) [shirt: #ffffff, shorts: #82d310 skin: #ffbeb2] (Waka Bayashi)
 
-B04		サンパウロ (São Paulo) - にほん (Japan / JPN)
+B04		サンパウロ (São Paulo) - ぜんにほん (Japan / JPN) (friendly match)
 
+
+Asia Cup:
 C1		ぜんにほん1ース (All of Japan 1st) - シリア (Syria / SYR) [shirt: #cf8aff, shorts: #ffffff, skin: #ff9a38)
 C2		ぜんにほん1ース (All of Japan 1st) - ちゅうごく (China / CHN) [shirt: #ffdbaa, shorts: #db2800, skin: #ffbeb2)
 C3		ぜんにほん1ース (All of Japan 1st) - イラン (Iran / IRN) [shirt: #82d310, shorts: #009600, skin: #ff9a38)
@@ -32,8 +32,8 @@ C4		ぜんにほん1ース (All of Japan 1st) - きたちょうせん (North Kor
 C5		ぜんにほん1ース (All of Japan 1st) - サウジアラビア (Saudi Arabia / KSA) [shirt: #0071ef, shorts: #0071ef, skin: #ff9a38)
 C6		ぜんにほん1ース (All of Japan 1st) - かんこく (Korea / KOR) [shirt: #0071ef, shorts: #db2800, skin: #ffbeb2)
 
-D9		ぜんにほん1ース (All of Japan 1st) - バスコ・ダ・ガマ (Vasco da Gama / VDG) [shirt: #ffffff, shorts: #82d310, skin: #e70059] (Brazilian club, friendly match)
 
+D9		ぜんにほん1ース (All of Japan 1st) - バスコ・ダ・ガマ (Vasco da Gama / VDG) [shirt: #ffffff, shorts: #82d310, skin: #e70059] (Brazilian club, friendly match)
 
 
 E1		ぜんにほん1ース (All of Japan 1st) - ポーランド1ース (Poland 1st) (group match)
