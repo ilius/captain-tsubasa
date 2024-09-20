@@ -1,16 +1,22 @@
-#757575=gray
-#db2800=red
-#c7d7ff=light blue
-#aae7ff=sky blue
-#0071ef=blue
-#2038ef=darker blue
-#82d310=green
-#009600=dark green
-#be00be=purple
-#00ebdb=cyan
-#ffbeb2=pink (fair skin)
-#e70059=crimson (skin)
-#ff7561=coral1 (dark skin)
+
+Copa Rio:
+A01		サンパウロ (São Paulo) - フルミネンセ (Fluminense / FLU) [shirt: #c7d7ff, shorts: #ffffff, skin: #e70059]
+A02		サンパウロ (São Paulo) - コリンチャンス (Corinthians? / COR) [shirt: #be00be, shorts: #ffffff, skin: #e70059]
+A03		サンパウロ (São Paulo) - グしミオ (Gushimio? / GRE) [shirt: #00ebdb, shorts: #db2800, skin: #ff7561/#ffbeb2]
+A04		サンパウロ (São Paulo) - パルメイラス (Palmeiras / PAL) [shirt: #82d310, shorts: #ffffff, skin: #e70059/#ff7561/#ffbeb2]
+A05		サンパウロ (São Paulo) - サントス (Santos / SAN) [shirt: #757575, shorts: #ffffff, skin: #ff7561/#e70059/#ffbeb2]
+A06		サンパウロ (São Paulo) - フラメンゴ (Flamengo / FLA) [shirt: #db2800, shorts: #757575, skin: #e70059/#ff7561] (final)
+
+A21		なんかつ (Nankatsu) - くにみが くいん (Kunimigakin / KUN) [shirt: #0071ef, shorts: #ffdbaa, skin: #ffbeb2]
+A22		なんかつ (Nankatsu) - あきたしょうこう (Akita school / AKI) [shirt: #009600, shorts: #ffffff, skin: #ffbeb2] [tachibana twins]
+A23		なんかつ (Nankatsu) - たつなゐ (Tatunai / TAT) [shirt: #2038ef, shorts: #aae7ff, skin: #ffbeb2]
+A24		なんかつ (Nankatsu) - むさし (Musashi / MUS) [shirt: #ffffff, shorts: #f779ff, skin: #ffbeb2]
+A25		なんかつ (Nankatsu) - ふらの (Furano / FUR) [shirt: #ffdbaa, shorts: #ffffff, skin: #ffbeb2]
+
+
+Unsaved:B22		サンパウロ (São Paulo) - ウルグ (ウルグアイ = Uruguay)
+Unsaved:B30		サンパウロ (São Paulo) - ぜんにほん (All of Japan)
+
 
 
 B01		サンパウロ (São Paulo) - ASローマ (AS Roma) [shirt: #db2800, shorts: #db2800, skin: #ffbeb2]
@@ -29,21 +35,6 @@ C6		ぜんにほん1ース (All of Japan 1st) - かんこく (Korea / KOR) [shir
 D9		ぜんにほん1ース (All of Japan 1st) - バスコ・ダ・ガマ (Vasco da Gama / VDG) [shirt: #ffffff, shorts: #82d310, skin: #e70059] (Brazilian club, friendly match)
 
 
-Unsaved:B03?		サンパウロ (São Paulo) - コリンチャンス (Corinthians?) [shirt: #be00be, shorts: #ffffff, skin: #e70059]
-Unsaved:B04		サンパウロ (São Paulo) - グしミオ (Gushimio?) [shirt: #00ebdb, shorts: #db2800, skin: #ff7561/#ffbeb2]
-Unsaved:B05		サンパウロ (São Paulo) - パルメイラス (Palmeiras) [shirt: #82d310, shorts: #ffffff, skin: #e70059/#ff7561/#ffbeb2]
-Unsaved:B06		サンパウロ (São Paulo) - サントス (Santos) [shirt: #757575, shorts: #ffffff, skin: #ff7561/#e70059/#ffbeb2]
-Unsaved:B07		サンパウロ (São Paulo) - フラメンゴ (Flamengo) [shirt: #db2800, shorts: #757575, skin: #e70059/#ff7561]
-
-Unsaved:B11		なんかつ (Nankatsu) - くにみが くいん (Kunimigakin) [shirt: #0071ef, shorts: #ffdbaa, skin: #ffbeb2]
-Unsaved:B12		なんかつ (Nankatsu) - あきたしょうこう (Akita school) [shirt: #009600, shorts: #ffffff, skin: #ffbeb2] [tachibana twins]
-Unsaved:B13		なんかつ (Nankatsu) -      [shirt: #2038ef, shorts: #aae7ff, skin: #ffbeb2]
-
-Unsaved:B22		サンパウロ (São Paulo) - ウルグ (ウルグアイ = Uruguay)
-
-Unsaved:B30		サンパウロ (São Paulo) - ぜんにほん (All of Japan)
-
-
 
 E1		ぜんにほん1ース (All of Japan 1st) - ポーランド1ース (Poland 1st) (group match)
 E2		ぜんにほん1ース (All of Japan 1st) - イングランド1ース (England 1st) (group match)
@@ -60,3 +51,17 @@ Notes:
 ン != ソ
 シ != ツ
 Taiwan = 台湾 = たいわん
+
+#757575=gray
+#db2800=red
+#c7d7ff=light blue
+#aae7ff=sky blue
+#0071ef=blue
+#2038ef=darker blue
+#82d310=green
+#009600=dark green
+#be00be=purple
+#00ebdb=cyan
+#ffbeb2=pink (fair skin)
+#e70059=crimson (skin)
+#ff7561=coral1 (dark skin)
