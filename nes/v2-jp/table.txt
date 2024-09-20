@@ -17,7 +17,15 @@ B01		サンパウロ (São Paulo) - ASローマ (AS Roma) [shirt: #db2800, short
 B02		サンパウロ (São Paulo) - フ儿ミ不ンセ (Families???) [shirt: #c7d7ff, shorts: #ffffff, skin: #ffbeb2/#ff7561]
 B03		サンパウロ (São Paulo) - ハンブルガーSV (Hamburger SV) [shirt: #ffffff, shorts: #82d310 skin: #ffbeb2] (Waka Bayashi)
 
-B04		サンパウロ (São Paulo) - にほん (Japan)
+B04		サンパウロ (São Paulo) - にほん (Japan / JPN)
+
+C1		ぜんにほん1ース (All of Japan 1st) - シリア (Syria / SYR) [shirt: #cf8aff, shorts: #ffffff, skin: #ff9a38)
+C2		ぜんにほん1ース (All of Japan 1st) - ちゅうごく (China / CHN) [shirt: #ffdbaa, shorts: #db2800, skin: #ffbeb2)
+C3		ぜんにほん1ース (All of Japan 1st) - イラン (Iran / IRN) [shirt: #82d310, shorts: #009600, skin: #ff9a38)
+C4		ぜんにほん1ース (All of Japan 1st) - きたちょうせん (North Korea) [shirt: #, shorts: #, skin: #)
+C5		ぜんにほん1ース (All of Japan 1st) - サウジアラビア (Saudi Arabia) [shirt: #, shorts: #, skin: #)
+D1		ぜんにほん1ース (All of Japan 1st) - かんこく (Korea) [shirt: #, shorts: #, skin: #)
+
 
 
 Unsaved:B03?		サンパウロ (São Paulo) - コリンチャンス (Corinthians?) [shirt: #be00be, shorts: #ffffff, skin: #e70059]
@@ -34,13 +42,9 @@ Unsaved:B22		サンパウロ (São Paulo) - ウルグ (ウルグアイ = Uruguay
 
 Unsaved:B30		サンパウロ (São Paulo) - ぜんにほん (All of Japan)
 
-C1		ぜんにほん1ース (All of Japan 1st) - シリア (Syria)
-C2		ぜんにほん1ース (All of Japan 1st) - ちゅうごく (China)
-C3		ぜんにほん1ース (All of Japan 1st) - イラン (Iran)
-C4		ぜんにほん1ース (All of Japan 1st) - きたちょうせん (North Korea)
-C5		ぜんにほん1ース (All of Japan 1st) - サウジアラビア (Saudi Arabia)
-D1		ぜんにほん1ース (All of Japan 1st) - かんこく (Korea)
+
 D9		バスコ・ダ・ガマ (Vasco da Gama) [Brazilian club]
+
 E1		ぜんにほん1ース (All of Japan 1st) - ポーランド1ース (Poland 1st)
 E2		ぜんにほん1ース (All of Japan 1st) - イングランド1ース (England 1st)
 E3		ぜんにほん1ース (All of Japan 1st) - ソビエト1ース (Soviet 1st)
