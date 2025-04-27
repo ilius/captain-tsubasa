@@ -6,13 +6,15 @@ A04		サンパウロ (São Paulo) - パルメイラス (Palmeiras / PAL) [shirt:
 A05		サンパウロ (São Paulo) - サントス (Santos / SAN) [shirt: #757575, shorts: #ffffff, skin: #ff7561/#e70059/#ffbeb2]
 A06		サンパウロ (São Paulo) - フラメンゴ (Flamengo / FLA) [shirt: #db2800, shorts: #757575, skin: #e70059/#ff7561] (final)
 
-Nankatsu:
-A21		なんかつ (Nankatsu) - くにみが くいん (Kunimigakin / KUN) [shirt: #0071ef, shorts: #ffdbaa, skin: #ffbeb2]
-A22		なんかつ (Nankatsu) - あきたしょうこう (Akita school / AKI) [shirt: #009600, shorts: #ffffff, skin: #ffbeb2] [tachibana twins]
-A23		なんかつ (Nankatsu) - たつなゐ (Tatunai / TAT) [shirt: #2038ef, shorts: #aae7ff, skin: #ffbeb2]
+Nankatsu: (Shun Nitta is captain. No Tsubasa, but Taro Missaki and Ishizaki are there)
+A21		なんかつ (Nankatsu) - くにみが くいん (Kunimi Gakuin / KUN) [shirt: #0071ef, shorts: #ffdbaa, skin: #ffbeb2]
+A22		なんかつ (Nankatsu) - あきたしょうこう (Akita / AKI) [shirt: #009600, shorts: #ffffff, skin: #ffbeb2] [Tachibana twins]
+A23		なんかつ (Nankatsu) - たつなゐ (Tatsunami / TAT) [shirt: #2038ef, shorts: #aae7ff, skin: #ffbeb2]
 A24		なんかつ (Nankatsu) - むさし (Musashi / MUS) [shirt: #ffffff, shorts: #f779ff, skin: #ffbeb2]
 A25		なんかつ (Nankatsu) - ふらの (Furano / FUR) [shirt: #ffdbaa, shorts: #ffffff, skin: #ffbeb2]
 A26		なんかつ (Nankatsu) - とうほう (Toho / THO) [shirt: #757575, shorts: #000000, skin: #ffbeb2] (Final, Kojiro)
+
+
 
 Unsaved?		サンパウロ (São Paulo) - ウルグ (ウルグアイ = Uruguay)
 
@@ -65,3 +67,15 @@ Taiwan = 台湾 = たいわん
 #ffbeb2=pink (fair skin)
 #e70059=crimson (skin)
 #ff7561=coral1 (dark skin)
+
+
+https://captaintsubasa.fandom.com/wiki/Nankatsu_SC
+https://captaintsubasa.fandom.com/wiki/Kunimi_Gakuin_High_School
+https://captaintsubasa.fandom.com/wiki/Akita_High_School
+https://captaintsubasa.fandom.com/wiki/Tatsunami_High_School
+https://captaintsubasa.fandom.com/wiki/Musashi_FC
+https://captaintsubasa.fandom.com/wiki/Musashi_Middle_School
+https://captaintsubasa.fandom.com/wiki/Furano_High_School
+https://captaintsubasa.fandom.com/wiki/Furano_High_School_(Tecmo)
+https://captaintsubasa.fandom.com/wiki/Toho_Academy_High_School
+
